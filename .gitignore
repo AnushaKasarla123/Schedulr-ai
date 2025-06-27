@@ -1,0 +1,11 @@
+# Sensitive files to ignore
+.env
+token.json
+credentials.json
+
+# Cache and build
+__pycache__/
+*.pyc
+
+# Virtual environment
+venv/
