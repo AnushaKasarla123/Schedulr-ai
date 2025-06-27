@@ -1,6 +1,7 @@
 import streamlit as st
 from backend.booking_agent import planner_node
 
+
 # Page config
 st.set_page_config(page_title="📅 Schedulr AI", page_icon="📆")
 st.title("📅 Schedulr AI Assistant")
